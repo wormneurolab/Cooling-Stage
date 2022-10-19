@@ -1,12 +1,7 @@
 # Cooling-Stage
-Our lab built a new cooling stage and associated immobilization protocol 
-for strong immobilization of C. elegans on their original cultivation plate.
-Despite its profound impact on biology, most high-resolution in vivo microscopy
-approaches remain low throughput because current immobilization techniques 
-require significant manual effort. We greatly accelerate imaging of the nematode
-Caenorhabditis elegans by implementing a simple cooling approach to easily 
-immobilize entire populations directly on their cultivation plates. We optimize
-and characterize cooling immobilization. Counterintuitively, relatively warmer 
+Our lab has developed a new cooling stage and associated immobilization protocol 
+for strong immobilization of entire C. elegans populations on their original cultivation plate.
+Counterintuitively, relatively warmer 
 temperatures immobilize animals significantly more effectively than colder 
 temperatures utilized in prior studies. This enhanced immobilization enables 
 clear submicron-resolution fluorescence imaging, which is challenging to achieve
